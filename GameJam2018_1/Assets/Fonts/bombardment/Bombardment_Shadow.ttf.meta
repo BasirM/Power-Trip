@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 662278fdebd442945bfd6a5d0aeba222
+timeCreated: 1517113929
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bombardment Shadow
+  fontNames:
+  - Bombardment Shadow
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
